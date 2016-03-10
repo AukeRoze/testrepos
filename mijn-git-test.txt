@@ -6,34 +6,6 @@ abcdef
 
 123 456 789
 
-<<<<<<< HEAD
-andere inhoud hier
-andere inhoud hier
-andere inhoud hier
-andere inhoud hier
-andere inhoud hier
-andere inhoud hier
-test
-test
-test
-testtest
-testtest
-testtest
-testtest
-testtest
-testtest
-testtest
-testtest
-testtest
-test
-
-asdfdsafdsfdsfa
-asdfdsafdsfdsfa
-asdfdsafdsfdsfa
-asdfdsafdsfdsfa
-asdfdsafdsfdsfa
-asdfdsafdsfdsfa
-=======
 
 abcdef
 
@@ -59,8 +31,11 @@ edit 12
 edit 13
 edit 14
 edit 15
->>>>>>> 314ff79d8ab43ec674638c7279dac3c2c0961c36
 
 
-123456789
-123456789
+
+edit 16
+edit 17
+edit 18
+edit 19
+edit 20
