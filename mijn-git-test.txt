@@ -6,6 +6,7 @@ abcdef
 
 123 456 789
 
+<<<<<<< HEAD
 andere inhoud hier
 andere inhoud hier
 andere inhoud hier
@@ -32,3 +33,34 @@ asdfdsafdsfdsfa
 asdfdsafdsfdsfa
 asdfdsafdsfdsfa
 asdfdsafdsfdsfa
+=======
+
+abcdef
+
+
+edit 1
+edit 2
+edit 3
+edit 4
+edit 5
+
+
+
+edit 6
+edit 7
+edit 8
+edit 9
+edit 10
+
+
+
+edit 11
+edit 12
+edit 13
+edit 14
+edit 15
+>>>>>>> 314ff79d8ab43ec674638c7279dac3c2c0961c36
+
+
+123456789
+123456789
